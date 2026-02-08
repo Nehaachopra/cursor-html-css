@@ -6,7 +6,7 @@ This project is recreation of Cursor website interface using only HTML and CSS.
 1. Header
 The header is built using Flexbox with justify-content: space-between.
 
-  ![Header Preview](./cursor-html-css/assets/images/Readme-header.png)
+  ![Header Preview](/assets/images/Readme-header.png)
 
   It contains:
     1. logo on the left, 
@@ -17,11 +17,11 @@ The header is built using Flexbox with justify-content: space-between.
 2. Main
 Main is flexbox containg the contents stacked one after the other in a column. It includes
 
-  ![Main section preview](./cursor-html-css/assets/images/Readme-main-1.png)
-  ![Main section preview](./cursor-html-css/assets/images/Readme-main-2.png)
-  ![Main section preview](./cursor-html-css/assets/images/Readme-main-3.png)
-  ![Main section preview](./cursor-html-css/assets/images/Readme-main-4.png)
-  ![Main section preview](./cursor-html-css/assets/images/Readme-main-5.png)
+  ![Main section preview](/assets/images/Readme-main-1.png)
+  ![Main section preview](/assets/images/Readme-main-2.png)
+  ![Main section preview](/assets/images/Readme-main-3.png)
+  ![Main section preview](/assets/images/Readme-main-4.png)
+  ![Main section preview](/assets/images/Readme-main-5.png)
 
   1. Hero section
     This section contains text, call to action and preview of cursor.
@@ -46,7 +46,7 @@ Main is flexbox containg the contents stacked one after the other in a column. I
 3. Footer
 Footer contains 2 parts
 
-![Footer Preview](./cursor-html-css/assets/images/Readme-footer.png)
+![Footer Preview](/assets/images/Readme-footer.png)
 
   1. various links organsized in 5 columns each containing a column head and multiple rows
   2. This section in a row contains
